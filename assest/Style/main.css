@@ -937,3 +937,20 @@ button {
     visibility: visible;
 }
 /* !=======================================End Active Class Style!======================================= */
+
+.wrapper-emty__container{
+    background-color: #fb2c36;
+    color: white;
+    padding: 20px;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.main{
+    margin-left: 20px;
+    margin-right: 10px;
+
+}
